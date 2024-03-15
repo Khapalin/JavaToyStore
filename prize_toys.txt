@@ -1,9 +1,10 @@
-ID: 1, Name: Teddy Bear, Quantity: 9, Weight: 30.0%
-ID: 3, Name: Car, Quantity: 19, Weight: 40.0%
-ID: 2, Name: Doll, Quantity: 14, Weight: 30.0%
-ID: 3, Name: Car, Quantity: 19, Weight: 40.0%
-ID: 1, Name: Teddy Bear, Quantity: 9, Weight: 30.0%
-ID: 1, Name: Teddy Bear, Quantity: 9, Weight: 30.0%
-ID: 2, Name: Doll, Quantity: 14, Weight: 30.0%
-ID: 2, Name: Doll, Quantity: 14, Weight: 30.0%
-ID: 1, Name: Teddy Bear, Quantity: 9, Weight: 30.0%
+ID: 3, Name: Кукла, Quantity: 19, Weight: 40.0%
+ID: 3, Name: Кукла, Quantity: 19, Weight: 40.0%
+ID: 2, Name: Робот, Quantity: 14, Weight: 30.0%
+ID: 3, Name: Кукла, Quantity: 19, Weight: 40.0%
+ID: 3, Name: Кукла, Quantity: 19, Weight: 40.0%
+ID: 1, Name: LEGO, Quantity: 9, Weight: 30.0%
+ID: 3, Name: Кукла, Quantity: 19, Weight: 40.0%
+ID: 3, Name: Кукла, Quantity: 19, Weight: 40.0%
+ID: 3, Name: Кукла, Quantity: 19, Weight: 40.0%
+ID: 1, Name: LEGO, Quantity: 9, Weight: 30.0%

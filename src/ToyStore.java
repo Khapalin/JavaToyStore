@@ -35,7 +35,7 @@ class ToyStore {
         }
 
         if (prizeToys.isEmpty()) {
-            System.out.println("There are no toys to play with.");
+            System.out.println("Нет игрушек, с которыми можно было бы играть.");
             return;
         }
 
@@ -51,12 +51,12 @@ class ToyStore {
             e.printStackTrace();
         }
 
-        System.out.println("The prize toy is: " + prizeToy.toString());
+        System.out.println("Призовая игрушка: " + prizeToy.toString());
     }
 
     public void showAvailableToys() {
         if (toys.isEmpty()) {
-            System.out.println("There are no available toys.");
+            System.out.println("Призовая игрушка отсутствует.");
             return;
         }
 
